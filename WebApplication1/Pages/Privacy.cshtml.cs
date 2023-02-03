@@ -1,5 +1,4 @@
-﻿
-using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Globalization;
 
 namespace WebApplication1.Pages
